@@ -1,0 +1,14 @@
+{
+  "name": "server-firebase",
+  "version": "1.0.0",
+  "description": "Server básico hospedade no Firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
